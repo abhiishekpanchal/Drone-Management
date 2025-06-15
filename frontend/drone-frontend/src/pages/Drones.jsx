@@ -3,7 +3,7 @@ import axios from 'axios';
 import DroneCard from '../components/DroneCard';
 import NewDroneForm from '../components/NewDroneForm';
 import UpdateDroneForm from '../components/UpdateDroneForm';
-import DroneInfoPopup from '../components/DroneInfoPopUp';
+import DroneInfoPopup from '../components/DroneInfoPopup';
 import DroneMapPopup from '../components/DroneMapPopup';
 import { useNavigate } from 'react-router-dom';
 
